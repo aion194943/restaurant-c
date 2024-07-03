@@ -1,1 +1,1 @@
-Restaurant management applications are designed to provide efficiency and control in managing resources, services, and processes. They facilitate and optimize various aspects of restaurant operations. This application aims to simulate various processes and reports that can be performed in such a system, based on working with text files from which data is retrieved, ensuring their persistence upon closing.
+
