@@ -1,0 +1,1 @@
+Order{clientName='John', address='Saint Street 14', idOrder='ORD000', orderDate=2022-11-10, totalAmount=300, chosenMenu='FullMeatMenu', type=CARD}
